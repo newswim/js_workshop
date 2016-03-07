@@ -30,6 +30,7 @@
 - [Object (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 - [CodePen](http://codepen.io/) - in-browser IDE, real-time preview and testing
 - [Open Tech School's blog](http://blog.opentechschool.org/)
+- Here are the [workshop slides](http://slides.com/danielminshew/deck-1#/) from March 6th
 
 
 #### Free curriculum-based learning
